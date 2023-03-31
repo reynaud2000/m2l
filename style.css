@@ -1,0 +1,47 @@
+.body{
+    background-color: #E0E5E9;
+}
+
+.yellow{
+    background-color:#F3D849;
+}
+
+.text{
+    display: flex;
+    height: 100px;
+    padding-top: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+.blue{
+    background-color:#0a62D0 ;
+}
+
+.para{
+    
+    display: flex;
+    height: 100px;
+    padding-top: 50px;
+    text-align: center;
+    margin: auto;
+    color: #E0E5E9;
+    font-size: 30px;
+    
+}
+
+.rest{
+    background-color: #191718;
+}
+
+img{
+    margin-top: 10px;
+    max-width: 33%;
+    max-height: 33%;
+    margin-bottom: 10px;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+}
+
